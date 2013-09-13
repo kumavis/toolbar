@@ -74,6 +74,16 @@ bartab.addContent({
   label:'yummy toast',
   id:'toast',
 })
+## try the demo locally
+
+The demo requires beefy installed globally
+```bash
+npm install -g beefy
+```
+
+Then simply start the demo
+```bash
+npm start
 ```
 
 ## bonus advice
