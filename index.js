@@ -3,7 +3,7 @@ var inherits = require('inherits')
 var events = require('events')
 var elementClass = require('element-class')
 
-var keyTable = require('.lib/keytable.js')
+var keyTable = require('./lib/keytable.js')
 
 module.exports = function(opts) {
   return new HUD(opts)
