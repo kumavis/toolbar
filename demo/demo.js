@@ -1,4 +1,5 @@
-var toolbar = require('toolbar')
-toolbar('.bar-tab').on('select', function(selected) {
+var toolbar = require('../index.js')
+var toolbar = window.toolbar = toolbar('.bar-tab')
+toolbar.on('select', function(selected) {
   console.log(selected)
 })
