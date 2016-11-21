@@ -5,7 +5,7 @@
   "repository": {"type": "git", "url": "git@github.com:maxogden/toolbar.git"},
   "version": "0.1.0",
   "dependencies": {
-    "inherits": "1.0.0",
-    "element-class": "0.0.2"
+    "inherits": "2.0.3",
+    "element-class": "0.2.2"
   }
 }
